@@ -1,16 +1,16 @@
-### Hi there 👋
+### Olá pessoas 👋, eu sou o João Vitor
+#### Desenvolvedor 
+![Desenvolvedor ](https://i.pinimg.com/originals/3d/13/d6/3d13d6d59538d88c4cbe3948b8880a53.gif)
 
-<!--
-**Alencars/Alencars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Venho estudando JavaScript e seus framework desde a faculdade
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alencars)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-vitor-de-alencar-da-silva-3374a56b//)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alencars)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alencars&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Alencars)  
