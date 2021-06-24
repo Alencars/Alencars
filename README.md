@@ -12,6 +12,6 @@ Skills: NODE / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alencars&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alencars$theme=synthwave&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alencars&theme=synthwave&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Alencars)  
