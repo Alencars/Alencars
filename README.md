@@ -2,15 +2,16 @@
 #### Desenvolvedor 
 ![Desenvolvedor ](https://i.pinimg.com/originals/3d/13/d6/3d13d6d59538d88c4cbe3948b8880a53.gif)
 
-Venho estudando JavaScript e seus framework desde a faculdade
+
 
 Skills: NODE / JS / HTML / CSS
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alencars)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jo%C3%A3o-vitor-de-alencar-da-silva-3374a56b//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Alencars)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jo%C3%A3o-vitor-de-alencar-da-silva-3374a56b//)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jaosalencars)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alencars)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alencars&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alencars&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Alencars$theme=synthwave&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/Alencars)  
