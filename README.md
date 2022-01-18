@@ -1,5 +1,5 @@
-### Olá pessoas 👋, eu sou o João 
-#### Desenvolvedor e estundante de ADS  
+### Olá mundo 👋, meu nome é João Vitor
+#### Desenvolvedor NodeJs em busca da primeira oportunidade de trabalho
 ![Desenvolvedor ](https://i.pinimg.com/originals/3d/13/d6/3d13d6d59538d88c4cbe3948b8880a53.gif)
 
 
