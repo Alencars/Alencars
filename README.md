@@ -1,5 +1,7 @@
 ### Olá mundo 👋, meu nome é João Vitor
-#### Desenvolvedor NodeJs em busca da primeira oportunidade de trabalho
+#### Sou apaixonado por tecnologia, formado em ADS e fascinado por história. Desenvolvedor javascript focado em back-end NodeJs, gosto muito de aprender e de estudar novas tecnologias.
+
+#### Atualmente estudando Docker e microsserviços.
 ![Desenvolvedor ](https://i.pinimg.com/originals/3d/13/d6/3d13d6d59538d88c4cbe3948b8880a53.gif)
 
 
