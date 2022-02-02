@@ -1,3 +1,8 @@
+### Hello world 👋, my name is João Vitor
+#### I'm passionate about technology, graduated in ADS and fascinated by history. I love to learn and study new technologies.
+
+#### Currently studying Docker and microservices.
+
 ### Olá mundo 👋, meu nome é João Vitor
 #### Sou apaixonado por tecnologia, formado em ADS e fascinado por história. Desenvolvedor javascript focado em back-end NodeJs, gosto muito de aprender e de estudar novas tecnologias.
 
